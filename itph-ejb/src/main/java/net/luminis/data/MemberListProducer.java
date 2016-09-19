@@ -15,7 +15,8 @@
  * limitations under the License.
  */
 package net.luminis.data;
-//test-comment
+//wat zijn we lekker bezig he met GIT
+//wie is er baas
 import javax.annotation.PostConstruct;
 import javax.enterprise.context.RequestScoped;
 import javax.enterprise.event.Observes;
