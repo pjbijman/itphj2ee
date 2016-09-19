@@ -59,14 +59,8 @@ public class Member implements Serializable {
     @Digits(fraction = 0, integer = 12)
     @Column(name = "phone_number")
     private String phoneNumber;
-    
-    private String birthDate = "12121990";
 
-    public String getBirthDate() {
-		return birthDate;
-	}
-
-	public Long getId() {
+    public Long getId() {
         return id;
     }
 
